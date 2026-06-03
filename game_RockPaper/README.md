@@ -14,7 +14,7 @@ A simple web-based Rock Paper Scissors game built using HTML, CSS, and JavaScrip
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://github.com/2101031000201-siddharth/Siddharth_projects/tree/main/game_RockPaper
 
 ## Author
 Siddharth Rathod
